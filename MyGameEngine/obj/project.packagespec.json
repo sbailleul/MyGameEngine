@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\sbailleu\\Documents\\Training\\2. C#\\1. xUnit\\GameEngine\\GameEngine\\GameEngine.csproj",
-    "projectName": "GameEngine",
-    "projectPath": "C:\\Users\\sbailleu\\Documents\\Training\\2. C#\\1. xUnit\\GameEngine\\GameEngine\\GameEngine.csproj",
-    "outputPath": "C:\\Users\\sbailleu\\Documents\\Training\\2. C#\\1. xUnit\\GameEngine\\GameEngine\\obj\\",
+    "projectUniqueName": "C:\\Users\\sbailleu\\Documents\\Training\\2. C#\\1. xUnit\\MyGameEngine\\MyGameEngine\\MyGameEngine.csproj",
+    "projectName": "MyGameEngine",
+    "projectPath": "C:\\Users\\sbailleu\\Documents\\Training\\2. C#\\1. xUnit\\MyGameEngine\\MyGameEngine\\MyGameEngine.csproj",
+    "outputPath": "C:\\Users\\sbailleu\\Documents\\Training\\2. C#\\1. xUnit\\MyGameEngine\\MyGameEngine\\obj\\",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netstandard2.1"
