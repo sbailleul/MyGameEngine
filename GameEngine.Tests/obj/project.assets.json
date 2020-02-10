@@ -1962,6 +1962,16 @@
         "build": {
           "build/netcoreapp1.0/xunit.runner.visualstudio.props": {}
         }
+      },
+      "GameEngine/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/GameEngine.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GameEngine.dll": {}
+        }
       }
     }
   },
@@ -6569,10 +6579,16 @@
         "xunit.runner.visualstudio.2.4.0.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "GameEngine/1.0.0": {
+      "type": "project",
+      "path": "../GameEngine/GameEngine.csproj",
+      "msbuildProject": "../GameEngine/GameEngine.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "GameEngine >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.2.0",
       "coverlet.collector >= 1.0.1",
       "xunit >= 2.4.0",
@@ -6604,7 +6620,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\sbailleu\\Documents\\Training\\2. C#\\1. xUnit\\GameEngine\\GameEngine\\GameEngine.csproj": {
+              "projectPath": "C:\\Users\\sbailleu\\Documents\\Training\\2. C#\\1. xUnit\\GameEngine\\GameEngine\\GameEngine.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
