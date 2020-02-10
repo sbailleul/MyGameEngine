@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\sbailleu\.Rider2019.3\config\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\sbailleu\.Rider2019.3\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\sbailleu\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\sbailleu\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Game.48156005.00" t="ExcludeRecursive" />
+    <e p="C:\Users\sbailleu\Documents\Training\2. C#\1. xUnit\GameEngine" t="IncludeFlat">
+      <e p="Game.sln" t="IncludeFlat" />
+      <e p="GameEngine" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="BossEnemy.cs" t="Include" />
+        <e p="Enemy.cs" t="Include" />
+        <e p="EnemyCreationException.cs" t="Include" />
+        <e p="EnemyFactory.cs" t="Include" />
+        <e p="GameEngine.csproj" t="IncludeRecursive" />
+        <e p="NormalEnemy.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard1.6" t="Include">
+              <e p="GameEngine.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="PlayerCharacter.cs" t="Include" />
+      </e>
+      <e p="GameEngine.Tests" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="GameEngine.Tests.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="GameEngine.Tests.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="UnitTest1.cs" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
